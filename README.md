@@ -25,8 +25,9 @@ presented in ICDCID Hackathon
 <br><br><br>
 
 <div align="center">
-  <img width="700" alt="image" src="https://github.com/user-attachments/assets/5df70cec-887e-4f1e-8d63-b6636d15afab" />
+  <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/5df70cec-887e-4f1e-8d63-b6636d15afab" />
 </div>
+
 
 
 
