@@ -1,7 +1,8 @@
 # Emoticare-Chatbot-Companion
 
-<p><strong>Authors:</strong> Srinithi Mitra, Ranit Mukherjee, Arka Singha, Aditi Mehta<br>
+<p><strong>Team mates :</strong> Srinithi Mitra, Ranit Mukherjee, Arka Singha, Aditi Mehta<br>
 <strong>Affiliation:</strong> School of Computer Science Engineering</p>
+presented in ICDCID Hackathon
 
 <h2>Abstract</h2>
 <p>Our project, a Mental Health AI Chatbot, focuses on bridging the gap between people and their inability to address their emotions openly. It provides emotional support through real-time sentiment analysis, mood tracking, and adaptive responses.</p>
