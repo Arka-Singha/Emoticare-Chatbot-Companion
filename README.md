@@ -10,6 +10,13 @@ presented in ICDCID Hackathon
 <h2>Introduction</h2>
 <p>In the modern world, mental health is a serious issue that is neither treated properly nor given much importance. The main goal of our project is to create a personalized and friendly environment for the user through AI — to address their issues, get answers regarding their mental state, empathize with them, and serve as a friendly guide.</p>
 
+<h2>Aims and Objective</h2>
+<br><br><br>
+
+<div align="center">
+  <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/a023da5b-b73b-40f8-a869-b4d09118be6d" />
+</div>
+
 <h2>Acknowledgments</h2>
 <p>We would like to express our heartfelt gratitude to our supervisor and mentor, Dr. Sricheta Parui. We also extend our thanks to KIIT University for allowing us to present our work.</p>
 
@@ -20,12 +27,6 @@ presented in ICDCID Hackathon
 
 <div align="center">
   <img width="700" alt="image" src="https://github.com/user-attachments/assets/a66208c9-f030-40dd-9d1d-d5b645447c24" />
-</div>
-
-<br><br><br>
-
-<div align="center">
-  <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/a023da5b-b73b-40f8-a869-b4d09118be6d" />
 </div>
 
 <p>The Mental Health Chatbot has been successfully developed and tested, ensuring user-friendliness, eco-friendliness, and effective interactions. Key features include:</p>
