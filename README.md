@@ -17,9 +17,6 @@ presented in ICDCID Hackathon
   <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/a023da5b-b73b-40f8-a869-b4d09118be6d" />
 </div>
 
-<h2>Acknowledgments</h2>
-<p>We would like to express our heartfelt gratitude to our supervisor and mentor, Dr. Sricheta Parui. We also extend our thanks to KIIT University for allowing us to present our work.</p>
-
 <h2>Result Analysis</h2>
 <div align="center">
   <img width="700" alt="image" src="https://github.com/user-attachments/assets/fc2995ae-7724-4076-b374-393da24e586d" />
@@ -45,6 +42,9 @@ presented in ICDCID Hackathon
 
 <h2>Future Works</h2>
 <p>Our aim will be to deploy this chatbot in daily-use apps for easy access whenever required, and to ensure empowerment and self-management for users.</p>
+
+<h2>Acknowledgments</h2>
+<p>We would like to express our heartfelt gratitude to our supervisor and mentor, Dr. Sricheta Parui. We also extend our thanks to KIIT University for allowing us to present our work.</p>
 
 <h2>References</h2>
 <ul>
