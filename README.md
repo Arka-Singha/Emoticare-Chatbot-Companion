@@ -14,6 +14,20 @@ presented in ICDCID Hackathon
 <p>We would like to express our heartfelt gratitude to our supervisor and mentor, Dr. Sricheta Parui. We also extend our thanks to KIIT University for allowing us to present our work.</p>
 
 <h2>Result Analysis</h2>
+<div align="center">
+  <img width="503" alt="image" src="https://github.com/user-attachments/assets/fc2995ae-7724-4076-b374-393da24e586d" />
+</div>
+
+<div align="center">
+  <img width="700" alt="image" src="https://github.com/user-attachments/assets/a66208c9-f030-40dd-9d1d-d5b645447c24" />
+</div>
+
+<div align="center">
+  <img width="700" alt="image" src="https://github.com/user-attachments/assets/5df70cec-887e-4f1e-8d63-b6636d15afab" />
+</div>
+
+
+
 <p>The Mental Health Chatbot has been successfully developed and tested, ensuring user-friendliness, eco-friendliness, and effective interactions. Key features include:</p>
 <ul>
   <li>Multilingual support</li>
@@ -23,6 +37,7 @@ presented in ICDCID Hackathon
   <li>Nearby help assistance</li>
 </ul>
 <p>All features are designed to operate with a low carbon footprint.</p>
+
 
 <h2>Conclusion</h2>
 <p>The project demonstrated how the mental health guide can reduce stress and anxiety, thus ensuring mental well-being and providing us with a healthy mind to live with.</p>
